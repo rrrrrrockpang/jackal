@@ -1,6 +1,0 @@
-I"„<h2 id="a-tutorial-of-the-vector-autoregressive-model-var-and-its-application">A tutorial of the Vector Autoregressive Model (VAR) and its Application</h2>
-
-<p>This tutorial is a result of the wonderful [Correlated Data class Find the tutorial <a href="https://www.dropbox.com/s/uza87918uh94wps/Var_final.html?dl=0">here</a>.</p>
-
-<p>I examined the relationship between four global stock markets (S&amp;P 500, Shanghai Stock Exchange, Hang Seng Index, FTSE 100) by multivariate time series analysis using Yahoo Finance. I used R to clean three years of daily returns at each market from Yahoo Finance. Using the vector autoregressive model, we found that the US stock market is very likely to affect others and forecasted the next week of global stock prices. We drafted a tutorial to communicate the results with statistics students online through informative steps, analysis, and visualizations. In the capstone class, I also wrote two other different reports on longitudinal data analysis and spatial data analysis. I worked on this project with my econ-savvy friend <a href="https://www.linkedin.com/in/yuanchen-leo-li-b85458119/">Yuanchen Li</a>.</p>
-:ET
