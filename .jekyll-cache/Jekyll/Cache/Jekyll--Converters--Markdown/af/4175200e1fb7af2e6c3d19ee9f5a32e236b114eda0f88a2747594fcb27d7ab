@@ -1,0 +1,48 @@
+I"�<div class="pretty-links">
+
+  <div class="site-profile">
+
+    <p><img class="image" src="/assets/img/Rock.jpg" /></p>
+
+    <div class="news" style="font-size:0.6rem;">
+      <h5 align="center"> News </h5>
+      <ul>
+        <li>Nov 2021: Present Apéritif at <a href="https://www.youtube.com/watch?v=FiCxbBT99mE&amp;t=2216s&amp;ab_channel=PaulG.AllenSchool">UW Colloquium</a></li>
+        <li>Sep 2021: Submitted my first paper to CHI2022 as the first author</li>
+        <li>May 2021: Attended CHI 2021</li>
+        <li>Dec 2020: Moved to Seattle</li>
+        <li>Oct 2020: Started my PhD program at UW</li>
+      </ul>
+    </div>
+  </div>
+
+  <p>Hi! I’m a second-year PhD student at Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington. I work with <a href="https://homes.cs.washington.edu/~reinecke/">Katharina Reinecke</a> and <a href="https://homes.cs.washington.edu/~rjust/">René Just</a>. I am exploring ways to anticipate and mitigate unintended consequences of emerging computing technologies. Currently I am automatically identifying discussion on societal implication online from newspapers, Twitter, and Reddit. I am also interested in data visualization, cross-culture usability of technology and HCI.
+<!-- I am exploring ways to anticipate and mitigate unintended consequences of emerging computing technologies. Currently I am automatically identifying discussion on societal implication online from newspapers, Twitter, and Reddit. I am also interested in building tools that make statistical analysis more approachable to novice users. In the past, I have designed tools to improve preregistration experience to increase the reproducibility of studies and prevent selection reporting bias. --></p>
+
+  <p>I spent four wonderful years at Macalester College, where I worked with <a href="https://www.macalester.edu/mscs/facultystaff/shiladsen/">Shilad Sen</a> to visualize Wikipedia articles as maps. Originally intending to study politics, I became more interested how I could use data to convey and visualize ever-changing information contained in the complex and pluralistic global community. In college, I majored in computer science, applied math &amp; statistics and minored in political science.</p>
+
+  <p><br /></p>
+
+  <hr />
+
+  <h3 id="publication">Publication</h3>
+
+  <!-- * **Yuren Pang**, Tal August, Priyanka Rao, Katharina Reinecke, *"Communicating Artificial Intelligence to the Public on Twitter"*, Proceedings of ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2022 (in preparation) -->
+  <ul>
+    <li><strong>Yuren Pang</strong>, Katharina Reinecke, René Just, <em>“Apéritif: Scaffolding Preregistrations to Automatically Generate Analysis Code and Method Descriptions”</em>, Human Factors in Computing Systems (CHI), 2022 (Revise &amp; Resubmit)</li>
+  </ul>
+
+  <hr />
+
+  <h3 id="honors">Honors</h3>
+  <ul>
+    <li>UW CSE Educators’ Endowed Fellowship (2020) <a href="https://www.cs.washington.edu/students/grad/awardrecipients/educators">[link]</a></li>
+    <li>Macalester Ezra J. Camp Endowed Prize in Mathematics (2020) <a href="https://catalog.macalester.edu/content.php?catoid=23&amp;navoid=2070">[link]</a></li>
+    <li><a href="/more">More</a></li>
+  </ul>
+
+  <hr />
+
+</div>
+
+:ET
