@@ -5,8 +5,8 @@ title: Rock Pang              # used for the html title of every page
 desc: >
   Hello World.
 
-url: https://homes.cs.washington.edu     # put your website hosting url here
-baseurl: '/~ypang2'                 # the subpath of your site, e.g. /blog
+url: https://homes.cs.washington.edu/~ypang2     # put your website hosting url here
+baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
