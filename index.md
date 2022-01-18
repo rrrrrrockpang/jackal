@@ -11,13 +11,17 @@ desc: About me.
 
 <img class="image" src="{{ site.baseurl }}/assets/img/Rock.jpg">
 
-<div class="news" style="font-size:0.6rem;">
-<h5 align="center"> News </h5>
+<div class="news" style="font-size:0.5rem;">
+<h5 align="center"> &#128310; News </h5>
+<div style="overflow:auto; height: 200px; font-size: 14px !important">
+* Mar 2022: Starting my internship at Microsoft Research with [Dr. Allison Koenecke](https://infosci.cornell.edu/~koenecke/)!
+* Jan 2022: TA for [CSE440](https://courses.cs.washington.edu/courses/cse440/22wi/) at UW
 * Nov 2021: Present Apéritif at [UW Colloquium](https://www.youtube.com/watch?v=FiCxbBT99mE&t=2216s&ab_channel=PaulG.AllenSchool)
 * Sep 2021: Submitted my first paper to CHI2022 as the first author
 * May 2021: Attended CHI 2021
 * Dec 2020: Moved to Seattle
 * Oct 2020: Started my PhD program at UW 
+</div>
 </div>
 </div>
 
